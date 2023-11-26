@@ -3,7 +3,7 @@ This codebase is the official implementation of our **32-bit three-level pipelin
 ## Quick Start
 ### Installation
 - Vivado
-- modelsim
+- ModelSim 10.5
 ### Note
 1. Different module code is included in `RISC-V-32-pipeline-CPU-main/rtl`.
 2. Code of common modules is included in `RISC-V-32-pipeline-CPU-main/utils`
