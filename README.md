@@ -1,4 +1,4 @@
-# RISCV 32bit 3-level pipeline CPU
+# RISC-V 32bit 3-level pipeline CPU
 This codebase is the official implementation of our **32-bit three-level pipeline CPU**. We verified the validity through synthesis and simulation using EDA software, and the validation instruction text document is shown above.
 ## Quick Start
 ### Installation
